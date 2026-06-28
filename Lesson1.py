@@ -60,7 +60,14 @@ for j in range(col):
 
 # O(n) + O(n) = O(n)
 
+# SPACE COMPLEXCITY 
 
+name = "" # memeory  O(1) space 
+arr = [1,2,3,30] # len = n, space = n , O(n) => space complexcity 
+
+# a funcyion that generate a metrix, n * m matrix (4 * 4) ----
+                                                        # -----
+                                                        # SPACE COMP - O(n^2)
 
 
 
